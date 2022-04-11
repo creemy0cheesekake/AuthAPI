@@ -1,0 +1,32 @@
+{
+  "name": "authapi",
+  "version": "1.0.0",
+  "description": "Simple Node.js Authentication API",
+  "main": "index.js",
+  "scripts": {
+    "test": "a"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/creemy0cheesekake/AuthAPI.git"
+  },
+  "keywords": [
+    "auth",
+    "authentication"
+  ],
+  "author": "Arjun Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/creemy0cheesekake/AuthAPI/issues"
+  },
+  "homepage": "https://github.com/creemy0cheesekake/AuthAPI#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "ts-node-dev": "^1.1.8"
+  },
+  "devDependencies": {
+    "@types/dotenv": "^8.2.0",
+    "@types/express": "^4.17.13"
+  }
+}
